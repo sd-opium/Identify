@@ -1,91 +1,70 @@
 # Identify
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>Identify</strong><br><br>
-
-👤 <strong>Name:</strong> Luca / Identify<br>
-🎂 <strong>Age:</strong> 15<br>
-🧑‍💻 <strong>Role:</strong> Apprentice Informatiker EFZ 🇨🇭<br>
-📍 <strong>Location:</strong> Switzerland 🇨🇭
-</span>
+👤 **Name:** Identify / sd-opium  
+🎂 **Age:** 15  
+🧑‍💻 **Role:** Apprentice Informatiker EFZ  
+  
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>// Languages</strong><br><br>
+## // Languages
 
-Java        <span style="color:#6ee7ff;">█████████░</span><br>
-Python      <span style="color:#7cdb7c;">███████░░░</span><br>
-C++         <span style="color:#ffcf5c;">██████░░░░</span>
-</span>
+Java        █████████░  
+Python      ███████░░░  
+C++         ██████░░░░  
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>// What I build</strong><br><br>
+## // What I build
 
-🎮 Minecraft Plugins & Systems<br>
-⚙️ Backend Projects<br>
-🛠️ Personal Tools<br>
-🔐 Cybersecurity Projects & Labs
-</span>
+🎮 Minecraft Plugins & Systems  
+⚙️ Backend Projects  
+🛠️ Personal Tools  
+🔐 Cybersecurity Projects & Labs  
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>// Currently</strong><br><br>
+## // Currently
 
-+ Working with Java<br>
-+ Learning C++ & Python<br>
-+ Building Minecraft projects<br>
-+ Exploring Cybersecurity<br>
-+ Improving my development skills
-</span>
++ Working with Java  
++ Learning C++ & Python  
++ Building Minecraft projects  
++ Exploring Cybersecurity  
++ Improving my development skills  
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>// Experience</strong><br><br>
+## // Experience
 
-I’ve worked on Minecraft servers in different areas, including:<br><br>
+I’ve worked on Minecraft servers in different areas, including:
 
-* 👨‍💻 Developer<br>
-* 🛡️ Moderator<br>
-* 🔧 Administrator<br>
-* 📋 Manager<br><br>
+* 👨‍💻 Developer
+* 🛡️ Moderator
+* 🔧 Administrator
+* 📋 Manager
 
 I enjoy working on technical projects, solving problems and turning ideas into working systems.
-</span>
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>// Toolbox</strong><br><br>
+## // Toolbox
 
-Java C++ Python<br>
-Git IntelliJ IDEA VS Code<br>
-MariaDB Minecraft / Paper
-</span>
+Java C++ Python  
+Git IntelliJ IDEA VS Code  
+MariaDB Minecraft / Paper  
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>// Philosophy</strong><br><br>
+## // Philosophy
 
 Build something. Break it. Understand it. Improve it.
-</span>
 
 ---
 
-## <span style="color:#ffffff;background:#0b0f17;padding:16px 20px;border-radius:14px;display:inline-block;width:100%;box-sizing:border-box;">
-<strong>📊 GitHub Activity</strong><br><br>
+## 📊 GitHub Activity
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ragee&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sd-opium&show_icons=true&theme=transparent)
 
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ragee&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sd-opium&theme=transparent)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ragee&layout=compact&theme=transparent)
-</span>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sd-opium&layout=compact&theme=transparent)
